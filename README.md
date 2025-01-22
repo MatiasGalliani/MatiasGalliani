@@ -25,7 +25,7 @@
 
 <h2>Let's Connect 🤝</h2>
 <ul>
-  <li>📫 Reach me at <a href="mailto:matiasgalliani00@gmail.com">your-email@example.com</a></li>
+  <li>📫 Reach me at <a href="mailto:matiasgalliani00@gmail.com">matiasgalliani00@gmail.com</a></li>
 </ul>
 
 <p>Thanks for stopping by! I'm excited to share my journey and connect with others in the tech community. 😊</p>
