@@ -6,7 +6,7 @@
 <ul>
   <li>🌱 I am currently learning <strong>HTML & CSS</strong>, the building blocks of web design.</li>
   <li>💻 Aspiring to become a <strong>Full-Stack Developer</strong> with a focus on JavaScript frameworks like <strong>React</strong> and <strong>Node.js</strong>.</li>
-  <li>🌎 Based in Monza, Italy, with roots in Argentina. 🇮🇹🇦🇷</li>
+  <li>🌎 Based in Milan, Italy, with roots in Argentina.</li>
   <li>✨ Passionate about creating clean and user-friendly designs.</li>
 </ul>
 
