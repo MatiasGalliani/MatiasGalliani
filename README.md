@@ -1,4 +1,4 @@
-<h1>Hi! I'm Matias Galliani 👋</h1>
+<h1>Hi! I'm Matias Galliani </h1>
 
 <p>Welcome to my GitHub profile! Here you'll find projects and experiments as I learn and grow in the world of web development. 🚀</p>
 
