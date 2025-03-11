@@ -1,22 +1,28 @@
-<h1>Hi! I'm Matias Galliani </h1>
+# Hi! I'm Matias
 
-<p>Welcome to my GitHub profile! Here you'll find projects and experiments as I learn and grow in the world of web development. 🚀</p>
+I'm a **Full Stack Developer** with a focus on **UX/UI design**, based in Monza, Italy 🇮🇹.
 
-<h2>About Me</h2>
-<ul>
-  <li>I am currently learning <strong>HTML & CSS</strong>, the building blocks of web design.</li>
-  <li>Aspiring to become a <strong>Full-Stack Developer</strong> with a focus on JavaScript frameworks like <strong>React</strong> and <strong>Node.js</strong>.</li>
-  <li>Based in Milan, Italy, with roots in Argentina.</li>
-  <li>Passionate about creating clean and user-friendly designs.</li>
-</ul>
+## About Me
 
-<h2>What I'm Working On 🔧</h2>
-<ul>
-  <li>Improving my skills in <strong>HTML & CSS</strong> with hands-on projects.</li>
-  <li>Learning programming fundamentals to dive into <strong>JavaScript</strong> next.</li>
-</ul>
+- Currently working with **JavaScript** (React.js, Node.js, Express, React Native), **Python** (Flask), and backend technologies like **PostgreSQL & Prisma**.
+- Interested in clean and intuitive design using **Figma**.
+- Experience with **Docker** and deploying applications on **Google Cloud Platform (GCP)**.
+- Aiming to study **Computer Science** at Politecnico di Milano starting in 2026.
 
-<h2>Let's Connect</h2>
-<ul>
-  <li>Reach me at <a href="mailto:matiasgalliani00@gmail.com">matiasgalliani00@gmail.com</a></li>
-</ul>
+## Tech Stack
+
+- **Frontend:** React (Vite), HTML, CSS, Tailwind CSS, JavaScript
+- **Backend:** Node.js, Express, Python, Flask
+- **Databases:** PostgreSQL, Prisma
+- **Tools:** Docker, Git, Figma
+
+## Languages
+
+- 🇪🇸 Spanish (Native)
+- 🇮🇹 Italian
+- 🇬🇧 English
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/matias-galliani-b41657294/)
+- [Email](mailto:matiasgalliani00@gmail.com)
