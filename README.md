@@ -8,10 +8,10 @@ I architect AI-driven enterprise solutions that bridge the gap between complex b
 ## ⭐️ Featured Work: Accelera AI-CRM
 I designed and deployed an end-to-end CRM for the Italian financial sector, integrating **GPT-4 Vision** and **RAG architectures**.
 
-* [cite_start]**300% ROI** achieved in the first year of operation[cite: 3, 482, 508].
-* [cite_start]**80% reduction** in operational costs through document automation [cite: 3, 24-25, 482].
-* [cite_start]**90% accuracy** in automated OCR for complex Italian documents (CUD, Busta Paga, ID)[cite: 30, 50, 512].
-* [cite_start]**65% reduction** in support tickets via "Eugenio", an intelligent RAG chatbot[cite: 34, 195, 228].
+* **300% ROI** achieved in the first year of operation.
+* **80% reduction** in operational costs through document automation .
+* **90% accuracy** in automated OCR for complex Italian documents (CUD, Busta Paga, ID).
+* **65% reduction** in support tickets via "Eugenio", an intelligent RAG chatbot.
 
 👉 **[Read the full 16-page Technical Case Study here](https://github.com/MatiasGalliani/accelera-ai-crm-case-study)**
 
@@ -19,18 +19,18 @@ I designed and deployed an end-to-end CRM for the Italian financial sector, inte
 
 ## 🛠 Tech Stack
 
-* [cite_start]**AI & Data:** OpenAI API (GPT-4o, Vision, o1), RAG, Prompt Engineering, OCR Automation [cite: 5, 95-97, 122].
-* [cite_start]**Frontend:** React 18 (Vite), Tailwind CSS, shadcn/ui, React Query[cite: 4, 74, 77].
-* [cite_start]**Backend:** Node.js, Express.js, Python (Flask), RESTful APIs [cite: 4, 81-82, 103].
-* [cite_start]**Infrastructure:** PostgreSQL, Docker, Google Cloud Platform (GCS, Cloud Run), Vercel [cite: 6, 87, 101-102].
-* [cite_start]**Tools:** Meta Conversions API, Twilio (WhatsApp API), Firebase Auth, Git [cite: 106-107, 140, 314].
+* **AI & Data:** OpenAI API (GPT-4o, Vision, o1), RAG, Prompt Engineering, OCR Automation.
+* **Frontend:** React 18 (Vite), Tailwind CSS, shadcn/ui, React Query.
+* **Backend:** Node.js, Express.js, Python (Flask), RESTful APIs.
+* **Infrastructure:** PostgreSQL, Docker, Google Cloud Platform (GCS, Cloud Run), Vercel.
+* **Tools:** Meta Conversions API, Twilio (WhatsApp API), Firebase Auth, Git.
 
 ---
 
 ## 🗣 Languages
-* [cite_start]**English:** C1 (Advanced - Technical Fluency)[cite: 465, 920].
-* [cite_start]**Italian:** B2 (Upper-Intermediate - Professional Working Proficiency)[cite: 465, 920].
-* [cite_start]**Spanish:** Native[cite: 465, 920].
+* **English:** C1 (Advanced - Technical Fluency).
+* **Italian:** B2 (Upper-Intermediate - Professional Working Proficiency).
+* **Spanish:** Native.
 
 ---
 
