@@ -1,5 +1,5 @@
 # Hi, I'm Matias Galliani 🚀
-**Full Stack Engineer | AI & Automation Specialist** *Based in Argentina (Remote) | Ex-Creditplan Italia 🇮🇹*
+**Full Stack Engineer | AI & Automation Specialist** *Based in Argentina (Remote) |
 
 I architect AI-driven enterprise solutions that bridge the gap between complex business logic and high-performance automation. I specialize in building scalable systems with a **Product-Owner mindset**.
 
