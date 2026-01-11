@@ -1,28 +1,39 @@
-# Hi! I'm Matias
+# Hi, I'm Matias Galliani 🚀
+**Full Stack Engineer | AI & Automation Specialist** *Based in Argentina (Remote) | Ex-Creditplan Italia 🇮🇹*
 
-I'm a **Full Stack Developer** with a focus on **UX/UI design**, based in Monza, Italy 🇮🇹.
+I architect AI-driven enterprise solutions that bridge the gap between complex business logic and high-performance automation. I specialize in building scalable systems with a **Product-Owner mindset**.
 
-## About Me
+---
 
-- Currently working with **JavaScript** (React.js, Node.js, Express, React Native), **Python** (Flask), and backend technologies like **PostgreSQL & Prisma**.
-- Interested in clean and intuitive design using **Figma**.
-- Experience with **Docker** and deploying applications on **Google Cloud Platform (GCP)**.
-- Aiming to study **Computer Science** at Politecnico di Milano starting in 2026.
+## ⭐️ Featured Work: Accelera AI-CRM
+I designed and deployed an end-to-end CRM for the Italian financial sector, integrating **GPT-4 Vision** and **RAG architectures**.
 
-## Tech Stack
+* [cite_start]**300% ROI** achieved in the first year of operation[cite: 3, 482, 508].
+* [cite_start]**80% reduction** in operational costs through document automation [cite: 3, 24-25, 482].
+* [cite_start]**90% accuracy** in automated OCR for complex Italian documents (CUD, Busta Paga, ID)[cite: 30, 50, 512].
+* [cite_start]**65% reduction** in support tickets via "Eugenio", an intelligent RAG chatbot[cite: 34, 195, 228].
 
-- **Frontend:** React (Vite), HTML, CSS, Tailwind CSS, JavaScript
-- **Backend:** Node.js, Express, Python, Flask
-- **Databases:** PostgreSQL, Prisma
-- **Tools:** Docker, Git, Figma
+👉 **[Read the full 16-page Technical Case Study here](https://github.com/MatiasGalliani/accelera-ai-crm-case-study)**
 
-## Languages
+---
 
-- 🇪🇸 Spanish (Native)
-- 🇮🇹 Italian
-- 🇬🇧 English
+## 🛠 Tech Stack
 
-## Connect
+* [cite_start]**AI & Data:** OpenAI API (GPT-4o, Vision, o1), RAG, Prompt Engineering, OCR Automation [cite: 5, 95-97, 122].
+* [cite_start]**Frontend:** React 18 (Vite), Tailwind CSS, shadcn/ui, React Query[cite: 4, 74, 77].
+* [cite_start]**Backend:** Node.js, Express.js, Python (Flask), RESTful APIs [cite: 4, 81-82, 103].
+* [cite_start]**Infrastructure:** PostgreSQL, Docker, Google Cloud Platform (GCS, Cloud Run), Vercel [cite: 6, 87, 101-102].
+* [cite_start]**Tools:** Meta Conversions API, Twilio (WhatsApp API), Firebase Auth, Git [cite: 106-107, 140, 314].
 
-- [LinkedIn](https://www.linkedin.com/in/matias-galliani-b41657294/)
-- [Email](mailto:matiasgalliani00@gmail.com)
+---
+
+## 🗣 Languages
+* [cite_start]**English:** C1 (Advanced - Technical Fluency)[cite: 465, 920].
+* [cite_start]**Italian:** B2 (Upper-Intermediate - Professional Working Proficiency)[cite: 465, 920].
+* [cite_start]**Spanish:** Native[cite: 465, 920].
+
+---
+
+## 📫 Connect with me
+* [LinkedIn](https://linkedin.com/in/matias-galliani/)
+* [Email](mailto:matiasgalliani00@gmail.com)
